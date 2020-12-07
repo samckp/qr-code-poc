@@ -38,10 +38,10 @@ public class GenerateQRCode {
     {
 
         // The data that the QR code will contain
-        String data = "www.geeksforgeeks.org";
+        String data = "www.google.com";
 
         // The path where the image will get saved
-        String path = "src/main/demo.png";
+        String path = "src/main/resources/demo.png";
 
         // Encoding charset
         String charset = "UTF-8";
